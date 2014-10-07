@@ -11,19 +11,19 @@ Myndir fra Birgi
 	Matrix 3
 	Matrix Animation
 
-<<<<<<< HEAD
 Myndir fra Henry
 
 	Jada Fire Is SquirtWoman 3
 	Semen Demons 2
 	Wet Latex Dreams 2
-=======
+
 Myndir fra Hrafnkeli
 
 	Jolagjof Onnu Bellu
 	The Matrix
 	Annabelle 
 	
+<<<<<<< HEAD
 <<<<<<< HEAD
 Myndir fra Asgeiri
 	
@@ -35,3 +35,10 @@ Myndir fra Asgeiri
 >>>>>>> origin
 
 >>>>>>> f8fef1d048587bf008f10d17419b144048a9dc30
+=======
+Myndir fra meistara Sigga:
+
+	Inglorious Basterds
+	Django
+	Public Enemy
+>>>>>>> origin
